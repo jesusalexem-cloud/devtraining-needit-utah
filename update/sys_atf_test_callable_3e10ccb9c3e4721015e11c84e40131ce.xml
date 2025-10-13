@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_callable">
+    <sys_atf_test_callable action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <copied_from/>
+        <description>Create a user, insert a record, verify all&#13;
+mandatory fields have values, log results</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>false</fail_on_server_error>
+        <name>Business Rule Test - NeedIt</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test_callable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 00:02:42</sys_created_on>
+        <sys_id>3e10ccb9c3e4721015e11c84e40131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_callable_3e10ccb9c3e4721015e11c84e40131ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 00:02:42</sys_updated_on>
+        <test_origin>manual</test_origin>
+    </sys_atf_test_callable>
+    <sys_variable_value action="delete_multiple" query="document_key=3e10ccb9c3e4721015e11c84e40131ce"/>
+</record_update>
